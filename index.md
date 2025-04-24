@@ -10,3 +10,8 @@ I am really excited to have made 2 headers that work! I am learning markdown.
 name = 'Kiran'
 print('Hello, ' + name)
 ```
+
+### Task Lists
+- [x] Create a task list
+- [x] Check it in Preview
+- [ ] Complete the Markdown course
